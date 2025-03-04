@@ -2,6 +2,11 @@
 
 Fashion Mart is a modern and responsive e-commerce website built using **React.js** for the frontend with **Bootstrap** for the UI design. This project provides a seamless shopping experience with multiple pages and components, designed without a backend.
 
+## Live here
+
+```
+https://frontend-okkvcij61-gokulnaths-projects-42b00bad.vercel.app/
+```
 ---
 
 ## 🚀 Features
@@ -78,6 +83,5 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 💌 Connect with Me
-📧 Email: your-email@example.com  
-🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-🐙 GitHub: [@yourgithub](https://github.com/yourgithub)  
+📧 Email: gokulnath461123456.com 
+🐙 live link: https://frontend-okkvcij61-gokulnaths-projects-42b00bad.vercel.app/  
